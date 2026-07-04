@@ -3,9 +3,9 @@
 # Trabalho 1: Fonte de Tensão Ajustável — 3V a 12V / 100mA
 
 ## 👥 Integrantes
-- Arthur Andrade Carneiro Almeida
-- Guilherme Rodrigues de Oliveira
-- Kawan da Silva Costa
+- Arthur Andrade Carneiro Almeida - 17879332
+- Guilherme Rodrigues de Oliveira - 16907161
+- Kawan da Silva Costa - 15510661
 
 ## 📝 Descrição do Projeto
 Projeto desenvolvido para a disciplina de Eletrônica para Computação, ministrada pelo Prof. Eduardo do Valle Simões (USP - São Carlos). 
