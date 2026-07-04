@@ -70,7 +70,7 @@ O layout da placa foi desenvolvido no EasyEDA.
 ## PCB no EasyEDA
 
 O layout da placa foi desenvolvido no EasyEDA.
-![PCB](IMAGENS/PCB.png)
+(IMAGENS/PCB.png)
 
 ---
 
@@ -79,7 +79,7 @@ O layout da placa foi desenvolvido no EasyEDA.
 
 <div align="center">
   <video width="600" controls>
-    <source src="IMAGENS/explicando.mp4" type="video/mp4">
+    <source src="./IMAGENS/explicando.mp4" type="video/mp4">
   </video>
 </div>
 ---
