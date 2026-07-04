@@ -1,3 +1,5 @@
+
+
 # Trabalho 1: Fonte de Tensão Ajustável — 3V a 12V / 100mA
 
 ## 👥 Integrantes
@@ -76,12 +78,7 @@ Isso atende perfeitamente ao requisito de fornecer até **12V** na saída. O aju
 
 ## Vídeo Funcionamento
 
-![PCB no EasyEDA](IMAGENS/explicando.mp4)
+[Video no Youtube](https://youtube.com/shorts/GDMUbfZpoNc)
 
-<div align="center">
-  <video width="600" controls>
-    <source src="./IMAGENS/explicando.mp4" type="video/mp4">
-  </video>
-</div>
----
+
 
