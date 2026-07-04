@@ -69,13 +69,20 @@ Isso atende perfeitamente ao requisito de fornecer até **12V** na saída. O aju
 
 ![Esquemático no EasyEDA](IMAGENS/Esquematico.png)
 
-
+---
 
 ## PCB no EasyEDA
 ![PCB no EasyEDA](IMAGENS/PCB.png)
 
 ---
 
+## Fotos da Fonte
+Vista aérea da placa montada na protoboard. 
+![Foto superior](IMAGENS/superior.jpeg)
+
+Vista lateral da placa montada na protoboard. 
+![Foto latera](IMAGENS/lateral.jpeg)
+---
 ## Vídeo Funcionamento
 
 [Video no Youtube](https://youtube.com/shorts/GDMUbfZpoNc)
