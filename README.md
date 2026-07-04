@@ -65,12 +65,12 @@ Isso atende perfeitamente ao requisito de fornecer até **12V** na saída. O aju
 ## Esquemático no EasyEDA
 
 O layout da placa foi desenvolvido no EasyEDA.
-![PCB](Imagens/Esquematico.png)
+(IMAGENS/Esquematico.png)
 
 ## PCB no EasyEDA
 
 O layout da placa foi desenvolvido no EasyEDA.
-![PCB](Imagens/PCB.png)
+![PCB](IMAGENS/PCB.png)
 
 ---
 
